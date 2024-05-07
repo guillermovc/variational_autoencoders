@@ -2,6 +2,11 @@
 
 This repository contains code, resources, and examples related to Variational Autoencoders (VAEs). VAEs are a type of generative model that combines deep learning with probabilistic inference to generate new data and learn complex distributions.
 
+I used code snippets and ideas from the following sources:
+- [Build a Convolutional Variational AutoEncoder (CVAE) using PyTorch - Example using USPS dataset (MEDIOCRE_GUY)](https://www.youtube.com/watch?v=yoT2DdwSC4E&t=1432s)
+- [178 - An introduction to variational autoencoders (VAE) (DigitalSreeni)](https://www.youtube.com/watch?v=YV9D3TWY5Zo&t=654s)
+- [Variational Autoencoder from scratch in PyTorch (Aladdin Persson)](https://www.youtube.com/watch?v=VELQT1-hILo&t=1708s)
+
 ## Contents
 
 - **Tutorials**: Step-by-step guides for understanding and implementing VAEs from scratch.
